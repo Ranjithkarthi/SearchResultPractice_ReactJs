@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.img-size {
+  height: 200px;
+  width: 200px;
+}
+
+.list-item {
+  list-style-type: none;
+  width: 50%;
+}
